@@ -1,0 +1,16 @@
+{
+  "name": "my_first_electron_app",
+  "version": "1.0.0",
+  "description": "desktop application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  }
+}
